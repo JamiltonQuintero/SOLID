@@ -2,10 +2,8 @@ package com.jamiltonquintero.solid.o.casoUno.cono;
 
 import com.jamiltonquintero.solid.o.casoUno.InformeEnum;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.EnumMap;
-import java.util.LinkedList;
 import java.util.List;
 import java.util.Set;
 
