@@ -5,41 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4f71589-6037-41d7-b68d-6601e756faaf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jamiltonquintero/solid/L/casoDos/IReporte.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jamiltonquintero/solid/L/casoDos/ReporteAuditoria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jamiltonquintero/solid/L/casoDos/ReporteCliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jamiltonquintero/solid/L/casoDos/ReporteEmpleado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jamiltonquintero/solid/L/casoDos/model/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jamiltonquintero/solid/L/casoDos/model/ClientRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jamiltonquintero/solid/L/casoDos/model/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jamiltonquintero/solid/L/casoDos/model/EmployeeRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jamiltonquintero/solid/L/casoDos/model/ReportEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jamiltonquintero/solid/L/casoDos/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jamiltonquintero/solid/L/casoDos/model/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jamiltonquintero/solid/L/casoTres/Clases.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jamiltonquintero/solid/L/casoTres/ConL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jamiltonquintero/solid/L/casoTres/SinL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jamiltonquintero/solid/L/casoUno/Caminador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jamiltonquintero/solid/L/casoUno/Cuacable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jamiltonquintero/solid/L/casoUno/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jamiltonquintero/solid/L/casoUno/Nadador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jamiltonquintero/solid/L/casoUno/Pato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jamiltonquintero/solid/L/casoUno/PatoDeHule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jamiltonquintero/solid/L/casoUno/PatoDeHule2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jamiltonquintero/solid/L/casoUno/PatoNormal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jamiltonquintero/solid/o/casoUno/cono/InformeFachada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jamiltonquintero/solid/o/casoUno/cono/InformeFachada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jamiltonquintero/solid/i/coni/Administrador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jamiltonquintero/solid/i/coni/Imp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jamiltonquintero/solid/i/coni/Inte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jamiltonquintero/solid/i/coni/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jamiltonquintero/solid/i/coni/UsuarioRegular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jamiltonquintero/solid/i/sini/Administrador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jamiltonquintero/solid/i/sini/Autenticable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jamiltonquintero/solid/i/sini/Impresora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jamiltonquintero/solid/i/sini/ImpresoraMultifuncional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jamiltonquintero/solid/i/sini/ImpresoraSimple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jamiltonquintero/solid/i/sini/UsuarioRegular.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
