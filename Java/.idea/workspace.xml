@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4f71589-6037-41d7-b68d-6601e756faaf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jamiltonquintero/solid/i/coni/Administrador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jamiltonquintero/solid/i/coni/Imp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jamiltonquintero/solid/i/coni/Inte.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jamiltonquintero/solid/i/coni/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jamiltonquintero/solid/i/coni/UsuarioRegular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jamiltonquintero/solid/i/sini/Administrador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jamiltonquintero/solid/i/sini/Autenticable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jamiltonquintero/solid/i/sini/Impresora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jamiltonquintero/solid/i/sini/ImpresoraMultifuncional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jamiltonquintero/solid/i/sini/ImpresoraSimple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jamiltonquintero/solid/i/sini/UsuarioRegular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jamiltonquintero/solid/d/cond/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jamiltonquintero/solid/d/sind/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
